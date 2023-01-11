@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Constructive AI Company </title>
+        <link rel="stylesheet" href="css/c01.css"/>
+    </head>
+    <body>
+        <h1> Constructive AI Company </h1>
+        <script src="js/add-content.js">;
+        </script>
+        <p> for all inquiries please call
+     <em> 0800111222</em> </p>
+        </body>
+        </html>
